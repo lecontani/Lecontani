@@ -1,6 +1,6 @@
-# lecontani
+# Lecontani
 
-**Developer | Game Development | Software Engineering**
+**Developer | Software Development | Technology**
 
 I’m a developer interested in building software, exploring new technologies, and turning ideas into practical projects.
 
@@ -10,36 +10,27 @@ Currently focused on improving my development skills, working on personal projec
 
 ## About
 
-- Interested in software and game development.
+- Interested in software development and technology.
 - Building and experimenting with personal projects.
 - Continuously learning new technologies and development practices.
 - Focused on writing clean, maintainable, and reliable code.
 
-## Technologies
+## Languages & Technologies
 
-**Languages**
-- Dart
-- JavaScript
-- Python
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,js,py,html,css&theme=light" alt="Programming languages" />
+</p>
 
-**Tools & Platforms**
-- Git
-- GitHub
-- Visual Studio Code
-- Flutter
+## Tools & Platforms
 
-## Projects
-
-### Moonbund
-An independent game development project.
-
-- Developer: Myltrix
-- Platform: itch.io
-- [View project](https://myltrix.itch.io/)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,linux&theme=light" alt="Development tools" />
+</p>
 
 ## GitHub
 
-[GitHub Profile](https://github.com/lecontani)
+- [GitHub Profile](https://github.com/lecontani)
+- Username: `@lecontani`
 
 ---
 
